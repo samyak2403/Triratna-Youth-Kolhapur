@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957838467741",
+    "project_id": "my-college-app-4fb7d",
+    "storage_bucket": "my-college-app-4fb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957838467741:android:c5490b5e67d1c351ec6a74",
+        "android_client_info": {
+          "package_name": "com.arrowwould.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0xqVU2-tHgA_tjhVtslsynAUnH72J4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

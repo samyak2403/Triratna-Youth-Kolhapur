@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Colleage App</string>
+
+
+    <string name="bold" tools:ignore="ReferenceType">@font/lato_bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/lato_regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latol_ight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_triratna_youth">*Our Vision:*
+To encourage and support Indian youth to follow the Path of the Buddha by Going for Refuge to the Three Jewels in the context of the Triratna Bauddha Mahasangha so that a new society may arise, based on Liberty, Equality, and Fraternity.
+
+*"To spread Buddhism is to serve mankind."*
+-Bodhisattiva Dr. B. R. Ambedkar</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="code_with_samyak">code with samyak</string>
+    <string name="samyak_kamble">Samyak kamble</string>
+    <string name="alredy_registered">Alredy registered?</string>
+    <string name="login_here">Login here</string>
+    <string name="user_name">Name</string>
+    <string name="forget_password">Forget Password</string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+</resources>
